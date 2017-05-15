@@ -16,14 +16,15 @@ Audio File: vertical_demo_two.mp4
 Video File: vertical_demo_two.mp4
 Video AR Mode: 4
 Video AR Value: 0.562500
-Video Zoom Percent: 0.500000
+Video Zoom Percent: 0.125000
+Scroll Position: 66
 Active Line: 68
 Video Position: 8675
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Default-JP-CBB,Hiragino Kaku Gothic ProN,60,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,-1,0,100,100,0,0,3,2,0,2,10,10,50,1
+Style: Default-JP-CBB,Hiragino Kaku Gothic ProN,60,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,-1,0,100,100,0,0,3,2,0,2,50,50,150,1
 Style: Default-JP-CBW,Hiragino Kaku Gothic ProN,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,-1,0,100,100,0,0,3,2,0,2,10,10,10,1
 Style: Default-JP-CCB,Hiragino Kaku Gothic ProN,72,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,-1,0,100,100,0,0,3,3,0,5,10,10,10,1
 Style: Default-JP-CCW,Hiragino Kaku Gothic ProN,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,-1,0,100,100,0,0,3,2,0,5,10,10,10,1
