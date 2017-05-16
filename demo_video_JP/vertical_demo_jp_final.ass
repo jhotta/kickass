@@ -17,66 +17,70 @@ Video File: vertical_demo_two.mp4
 Video AR Mode: 4
 Video AR Value: 0.562500
 Video Zoom Percent: 0.375000
-Active Line: 13
-Video Position: 1686
+Scroll Position: 61
+Active Line: 66
+Video Position: 9066
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Default-JP-CBB,Hiragino Kaku Gothic ProN,60,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,-1,0,100,100,0,0,3,2,0,2,10,10,10,1
+Style: Default-JP-CBB,Hiragino Kaku Gothic ProN,60,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,-1,0,100,100,0,0,3,2,0,2,50,50,150,1
 Style: Default-JP-CBW,Hiragino Kaku Gothic ProN,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,-1,0,100,100,0,0,3,2,0,2,10,10,10,1
 Style: Default-JP-CCB,Hiragino Kaku Gothic ProN,72,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,-1,0,100,100,0,0,3,3,0,5,10,10,10,1
 Style: Default-JP-CCW,Hiragino Kaku Gothic ProN,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,-1,0,100,100,0,0,3,2,0,5,10,10,10,1
+Style: Default-JP-CBB2,Hiragino Kaku Gothic ProN,60,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,-1,0,100,100,0,0,3,2,0,2,50,50,400,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:08.30,Default-JP-CCB,,0,0,0,,Datadog は、\Nインフラレベル監視から\Nアプリのパフォーマンスまでもを\N監視してくれる\N最新のSaaS型のソリューションです
-Dialogue: 0,0:00:08.40,0:00:14.02,Default-JP-CCB,,0,0,0,,監視対象のホストに Agent をインストールすると、\N直ちにメトリクスを収集し始めます
-Dialogue: 0,0:00:14.12,0:00:17.88,Default-JP-CCB,,0,0,0,,CPU、メモリ、I / O、ネットワーク など\N全てのメトリクスを集取します
-Dialogue: 0,0:00:17.98,0:00:22.20,Default-JP-CCB,,0,0,0,,インテグレーションをインストールすると\N更に多くの情報が集取できるようになります
+Dialogue: 0,0:00:00.00,0:00:01.86,Default-JP-CCB,,0,0,0,,Datadog は
+Dialogue: 0,0:00:01.86,0:00:08.28,Default-JP-CCB,,0,0,0,,インフラ監視から アプリのパフォーマンスまでもを\N一環して監視してくれる\N SaaS型のソリューションです
+Dialogue: 0,0:00:08.28,0:00:11.62,Default-JP-CCB,,0,0,0,,監視対象のホストに\N Agent をインストールすると、
+Dialogue: 0,0:00:11.62,0:00:14.12,Default-JP-CCB,,0,0,0,,直ちに、\Nメトリクスを収集し始めます
+Dialogue: 0,0:00:14.12,0:00:15.42,Default-JP-CCB,,0,0,0,,CPU、メモリ、I / O、ネットワーク など
+Dialogue: 0,0:00:15.42,0:00:17.88,Default-JP-CCB,,0,0,0,,全てのメトリクスを集取します
+Dialogue: 0,0:00:17.88,0:00:19.70,Default-JP-CCB,,0,0,0,,インテグレーションを\Nインストールすると
+Dialogue: 0,0:00:19.70,0:00:22.20,Default-JP-CCB,,0,0,0,,更に多くの情報が\N集取できるようになります
 Dialogue: 0,0:00:22.34,0:00:25.88,Default-JP-CBB,,0,0,0,,リストをスクロールすると、 \Nいくつかの監視可能なインフラ部品が\N準備されていることが分かります
-Dialogue: 0,0:00:25.98,0:00:30.55,Default-JP-CBB,,0,0,0,,AWSが提供しているサービスは、\Nほぼ全てに渡り監視することができます
-Dialogue: 0,0:00:30.55,0:00:34.13,Default-JP-CBB,,0,0,0,,他のクラウドプロバイダも同時に監視することができ、\NApacheやetcd等の一般的なインフラ部品も監視できます
-Dialogue: 0,0:00:34.13,0:00:38.48,Default-JP-CBB,,0,0,0,,更に、Elasticsearch、NGINX、\NPostgreSQL、Redis 等も監視可能です
-Dialogue: 0,0:00:38.56,0:00:42.14,Default-JP-CBB,,0,0,0,,インテグレーションを稼働させるには、\Nこれらのタイルをクリックし\Nインストールします
-Dialogue: 0,0:00:42.22,0:00:44.66,Default-JP-CBB,,0,0,0,,Configuration タブをクリックすると、\N設定手順の詳細を確認できます
-Dialogue: 0,0:00:44.74,0:00:50.14,Default-JP-CBB,,0,0,0,,設定後、Agentを再起動すると\Nシステム メトリクスと同じ15秒周期で\N メトリクスの集取し始めます
+Dialogue: 0,0:00:25.98,0:00:30.55,Default-JP-CBB,,0,0,0,,AWSが提供しているサービスは、\Nほぼ全て監視することができます
+Dialogue: 0,0:00:30.55,0:00:34.13,Default-JP-CBB,,0,0,0,,他クラウドも同時に監視ができ、\NApacheやetcdなどの\N一般的なインフラ部品も監視できます
+Dialogue: 0,0:00:34.13,0:00:38.48,Default-JP-CBB,,0,0,0,,更に、Elasticsearch、NGINX、\NPostgreSQL、Redis など\Nミドルウェアも監視できます
+Dialogue: 0,0:00:38.56,0:00:42.14,Default-JP-CBB,,0,0,0,,インテグレーションを稼働させるには、\Nこれらのタイルをクリックし\N設定をします
+Dialogue: 0,0:00:42.22,0:00:44.66,Default-JP-CBB,,0,0,0,,Configuration タブをクリックすると、\N詳細な設定手順が確認できます
+Dialogue: 0,0:00:44.74,0:00:50.14,Default-JP-CBB,,0,0,0,,設定後、Agentを再起動すると\N メトリクスの集取し始めます
 Dialogue: 0,0:00:50.24,0:00:53.56,Default-JP-CBB,,0,0,0,,データの収集ができるようになったら\Nダッシュボードを設定していきます
 Dialogue: 0,0:00:53.66,0:00:56.12,Default-JP-CBB,,0,0,0,,Webサイトのパフォーマンスを\N監視するダッシュボードです
-Dialogue: 0,0:00:56.20,0:01:02.00,Default-JP-CBB,,0,0,0,,ダッシュボーには、PostgreSQLや \NWebのレイテンシ、Amazon EBS、Redis
-Dialogue: 0,0:01:02.00,0:01:04.64,Default-JP-CBB,,0,0,0,,そして、Cassandraの情報が、\N単一のダッシュボードに表示されています
+Dialogue: 0,0:00:56.20,0:01:04.64,Default-JP-CBB,,0,0,0,,PostgreSQL、Web レイテンシ、\NAmazon EBS、Redis、Cassandra などのメトリクスが、\N単一のダッシュボードに表示されています
 Dialogue: 0,0:01:04.70,0:01:07.12,Default-JP-CBB,,0,0,0,,このダッシュボードには、\N4日間分のデータが表示されています
 Dialogue: 0,0:01:07.19,0:01:10.32,Default-JP-CBB,,0,0,0,,データの表示時間枠は、\N自由に変更することができます
 Dialogue: 0,0:01:10.34,0:01:12.70,Default-JP-CBB,,0,0,0,,最長では、15ヵ月分まで、\N表示することできます
-Dialogue: 0,0:01:12.70,0:01:15.18,Default-JP-CBB,,0,0,0,,何か、注目すべき箇所を見つけたら
-Dialogue: 0,0:01:15.22,0:01:18.50,Default-JP-CBB,,0,0,0,,グラフ右隅のカメラのアイコンをクリックし\Nその周りに小さな箱を描きます
+Dialogue: 0,0:01:12.70,0:01:18.50,Default-JP-CBB,,0,0,0,,注目すべき箇所を見つけたら、\N グラフ右隅のカメラのアイコンをクリックし\Nその周りに小さな箱を描きます
 Dialogue: 0,0:01:18.52,0:01:21.12,Default-JP-CBB,,0,0,0,,”ここの部分で、何か異常を起こしていない?”\Nというように連絡を取ります
 Dialogue: 0,0:01:21.21,0:01:23.90,Default-JP-CBB,,0,0,0,,”重大なこと? ”、”直ちに対処が必要なこと?”
-Dialogue: 0,0:01:23.94,0:01:26.98,Default-JP-CBB,,0,0,0,,これらのメッセージは、\N社内の個人にe-mailで直接送信できます
+Dialogue: 0,0:01:23.94,0:01:26.98,Default-JP-CBB,,0,0,0,,Datadog内の全てのメッセージは、\N社内の個人にe-mailで直接送信できます
 Dialogue: 0,0:01:27.02,0:01:29.25,Default-JP-CBB,,0,0,0,,更に、Slack、HipChat、ChatWorkなどの\Nチャネルに送信することもできます
-Dialogue: 0,0:01:29.28,0:01:31.00,Default-JP-CBB,,0,0,0,,又、VictorOps、PagerDuty へのアラート通知
-Dialogue: 0,0:01:31.00,0:01:33.76,Default-JP-CBB,,0,0,0,,そして WebHooks を使って、\N次のアクションのトリガのもできます
+Dialogue: 0,0:01:29.28,0:01:31.00,Default-JP-CBB,,0,0,0,,又、VictorOps、PagerDuty などの通知管理サービスへも
+Dialogue: 0,0:01:31.00,0:01:33.76,Default-JP-CBB,,0,0,0,, WebHooks を使って、\N次のアクションのトリガのも可能です
 Dialogue: 0,0:01:33.82,0:01:43.88,Default-JP-CBB,,0,0,0,,送信先に関しては、ほとんど制限は無く\Nどのように会話をかも\N自由に選択できるようになっています
 Dialogue: 0,0:01:43.92,0:01:48.34,Default-JP-CBB,,0,0,0,,ホストマップ上で、メトリックを使って\N現況を分析することもできます
-Dialogue: 0,0:01:48.36,0:01:52.12,Default-JP-CBB,,0,0,0,,これは、デモ環境のホストマップです
-Dialogue: 0,0:01:52.12,0:02:00.24,Default-JP-CBB,,0,0,0,,これらは、M3 Large で、Cassandra がインストールされているものを抽出して表示しています
-Dialogue: 0,0:02:00.24,0:02:05.16,Default-JP-CBB,,0,0,0,,抽出条件から Cassandra を取り除き\N"Size by"を削除すると
+Dialogue: 0,0:01:48.36,0:01:52.12,Default-JP-CBB,,0,0,0,,デモ環境のホストマップです
+Dialogue: 0,0:01:52.12,0:02:00.24,Default-JP-CBB,,0,0,0,,M3 Large で、Cassandra が\Nインストールされているホストを\N抽出して表示しています
+Dialogue: 0,0:02:00.24,0:02:05.16,Default-JP-CBB,,0,0,0,,抽出条件から Cassandra を取り除き\N "Size by" を "do not size" に変更すると
 Dialogue: 0,0:02:05.16,0:02:09.42,Default-JP-CBB,,0,0,0,,デモ環境の全体を表示することができます
-Dialogue: 0,0:02:09.44,0:02:13.54,Default-JP-CBB,,0,0,0,,六角形は、ホストを表します。
+Dialogue: 0,0:02:09.44,0:02:13.54,Default-JP-CBB,,0,0,0,,六角形は、環境下の各ホストを表します。
 Dialogue: 0,0:02:13.54,0:02:17.58,Default-JP-CBB,,0,0,0,,六角形の色は、\NCPU使用率を示しています
 Dialogue: 0,0:02:17.58,0:02:21.90,Default-JP-CBB,,0,0,0,,六角形の色とサイズに\Nメトリクスを自由に割り当てることができます
-Dialogue: 0,0:02:21.94,0:02:27.16,Default-JP-CBB,,0,0,0,,1~2 万種のメトリクスを\N15秒周期で集取してることもあります。
+Dialogue: 0,0:02:21.94,0:02:27.16,Default-JP-CBB,,0,0,0,,1~2 万種のメトリクスを\N15秒周期で集取してることもあります
 Dialogue: 0,0:02:27.18,0:02:31.50,Default-JP-CBB,,0,0,0,,イメージの種類ではなく、\Nインスタンス サイズで\N分類することもできます
 Dialogue: 0,0:02:31.50,0:02:35.34,Default-JP-CBB,,0,0,0,,インスタンス タイプ毎に\Nグループ化してみます
-Dialogue: 0,0:02:35.34,0:02:44.96,Default-JP-CBB,,0,0,0,,何か気になるホストがあったら\N六角形をクリックし\N インストールされている\Nインテグレーションを確認します
-Dialogue: 0,0:02:44.96,0:02:51.20,Default-JP-CBB,,0,0,0,,システムをクリックすると、\Nすべてのシステム メトリクスが表示されます
-Dialogue: 0,0:02:51.24,0:02:54.22,Default-JP-CBB,,0,0,0,,アプリケーションの\Nパフォーマンス監視もできます\N(APM)
+Dialogue: 0,0:02:35.34,0:02:44.96,Default-JP-CBB,,0,0,0,,気になるホストがあったら\N六角形をクリックし\N インストールされている\Nインテグレーションを確認します
+Dialogue: 0,0:02:44.96,0:02:51.20,Default-JP-CBB2,,0,0,0,,システムをクリックすると、\Nすべてのシステム メトリクスが表示されます
+Dialogue: 0,0:02:51.24,0:02:54.22,Default-JP-CBB2,,0,0,0,,アプリケーションの\Nパフォーマンス監視もできます\N(APM)
 Dialogue: 0,0:02:54.22,0:02:58.98,Default-JP-CBB,,0,0,0,,APMを使うと\Nヒット数/秒、レイテンシ、レイテンシの分布\Nなどを監視することができます
-Dialogue: 0,0:02:58.98,0:03:15.08,Default-JP-CBB,,0,0,0,,アプリケーションの Cassandra モジュールの\N 90％ のプロセスが、\N約20ミリ秒しょりされている
-Dialogue: 0,0:03:15.12,0:03:19.68,Default-JP-CBB,,0,0,0,,また、このモジュールが実行している異なるクエリを見ることもできます
+Dialogue: 0,0:02:58.98,0:03:15.08,Default-JP-CBB,,0,0,0,,Cassandra モジュールの\N 90％ のプロセスが、\N約20ミリ秒しょりされている
+Dialogue: 0,0:03:15.12,0:03:19.68,Default-JP-CBB,,0,0,0,,モジュールが実行している\N異なるクエリを見ることもできます
 Dialogue: 0,0:03:19.70,0:03:28.22,Default-JP-CBB,,0,0,0,,このような詳細情報を得るためには、\Nプログラミング言語のよって、\Nアプリケーションに\N 4行~10行のコードを\N追記する必要があります
 Dialogue: 0,0:03:28.26,0:03:31.72,Default-JP-CBB,,0,0,0,,現状APMは、\NPython、Ruby、Goを\Nサポートしています
-Dialogue: 0,0:03:31.76,0:03:34.48,Default-JP-CBB,,0,0,0,,また、\N各種フレームワークやライブラリも\Nサポートしています
+Dialogue: 0,0:03:31.76,0:03:34.48,Default-JP-CBB,,0,0,0,,それ以外にも、\N各種フレームワークやライブラリも\Nサポートしています
 Dialogue: 0,0:03:34.50,0:03:41.60,Default-JP-CBB,,0,0,0,,例えばPythonの場合、\NFlask、Pylons、Django、など\Nフレームワークをサポートしています
 Dialogue: 0,0:03:41.64,0:03:48.74,Default-JP-CBB,,0,0,0,,いずれかのクエリをクリックすると\N収集している全サンプルのリストを\N表示することができます
 Dialogue: 0,0:03:48.78,0:03:53.44,Default-JP-CBB,,0,0,0,,サンプルをクリックすると、\Nフレーム グラフを表示します
@@ -87,14 +91,14 @@ Dialogue: 0,0:04:06.78,0:04:12.62,Default-JP-CBB,,0,0,0,,EC2 の CPU 負荷 Load
 Dialogue: 0,0:04:12.62,0:04:15.36,Default-JP-CBB,,0,0,0,,今回は、\NAnomaly Alert (周期異常値)を\N設定しています。
 Dialogue: 0,0:04:15.40,0:04:21.68,Default-JP-CBB,,0,0,0,,Anomaly Alert は、\Nメトリクスの周期性を学習し、\Nその周期から外れていないかトラックします
 Dialogue: 0,0:04:21.68,0:04:24.82,Default-JP-CBB,,0,0,0,,その周期から外れていた場合のみ、\Nアラートを出します
-Dialogue: 0,0:04:24.86,0:04:32.94,Default-JP-CBB,,0,0,0,,学習結果の値を基に現在あるべき値を予測し、\N その値から離れた２偏差値異常の距離の場合 \Nアラートが実行される設定になっています
-Dialogue: 0,0:04:33.00,0:04:38.28,Default-JP-CBB,,0,0,0,,周期の状況に合わせて、\Nさまざまなアルゴリズムがあります\Nこれを設定することができます
+Dialogue: 0,0:04:24.86,0:04:32.94,Default-JP-CBB,,0,0,0,,学習結果の値を基に\N現在あるべき値を予測し、\N ２偏差値異常の距離の場合 \Nアラートが実行されます
+Dialogue: 0,0:04:33.00,0:04:38.28,Default-JP-CBB,,0,0,0,,変化周期の性質に合わせて、\Nさまざまなアルゴリズムがあります\Nこれを設定することができます
 Dialogue: 0,0:04:38.30,0:04:42.34,Default-JP-CBB,,0,0,0,,アラートメッセージ欄は、\N障害に対処するための\N各種情報を設定できます
 Dialogue: 0,0:04:42.40,0:04:46.40,Default-JP-CBB,,0,0,0,,アラート発生の背景や\N障害の解決方法
-Dialogue: 0,0:04:46.44,0:04:49.10,Default-JP-CBB,,0,0,0,,”追加情報を手に入れるために、\N誰に連絡すべきですか？”\Nも書けます
-Dialogue: 0,0:04:49.14,0:04:52.76,Default-JP-CBB,,0,0,0,,平文だけではなく、\NMarkdownで構造分を書けます
+Dialogue: 0,0:04:46.44,0:04:49.10,Default-JP-CBB,,0,0,0,,”サポートを受けるために、\N誰に連絡すべきですか？”\Nなども書けます
+Dialogue: 0,0:04:49.14,0:04:52.76,Default-JP-CBB,,0,0,0,,テキスト以外にも、\NMarkdownを使った構造文\Nが書けます
 Dialogue: 0,0:04:52.78,0:04:59.20,Default-JP-CBB,,0,0,0,,テンプレート変数を使って\N本文内にインスタンスIDなどを\N動的に埋め込むことができます
-Dialogue: 0,0:04:59.22,0:05:02.23,Default-JP-CBB,,0,0,0,,別のダッシュボードで\NScreenBoardです
+Dialogue: 0,0:04:59.22,0:05:02.23,Default-JP-CBB,,0,0,0,,情報共有用のダッシュボードで\NScreenBoardです
 Dialogue: 0,0:05:02.23,0:05:07.36,Default-JP-CBB,,0,0,0,,テキスト情報や画像も\N追加できます
 Dialogue: 0,0:05:07.36,0:05:12.24,Default-JP-CBB,,0,0,0,,初心者ユーザーでも理解できる\Nダッシュボードを作れます
 Dialogue: 0,0:05:12.24,0:05:18.86,Default-JP-CBB,,0,0,0,,右上隅の小さな歯車アイコンを\Nクリックして\N制限付きでパブリックに公開できます
