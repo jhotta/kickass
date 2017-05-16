@@ -17,9 +17,9 @@ Video File: vertical_demo_two.mp4
 Video AR Mode: 4
 Video AR Value: 0.562500
 Video Zoom Percent: 0.375000
-Scroll Position: 63
-Active Line: 70
-Video Position: 9566
+Scroll Position: 52
+Active Line: 64
+Video Position: 8675
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -77,7 +77,7 @@ Dialogue: 0,0:02:35.34,0:02:44.96,Default-JP-CBB,,0,0,0,,気になるホスト�
 Dialogue: 0,0:02:44.96,0:02:51.20,Default-JP-CBB2,,0,0,0,,システムをクリックすると、\Nすべてのシステム メトリクスが表示されます\N各インテグレーションをクリックして\N詳細を表示し、\ドリルダウンもできます
 Dialogue: 0,0:02:51.24,0:02:54.22,Default-JP-CBB2,,0,0,0,,アプリケーションの\Nパフォーマンス監視もできます\N(APM)
 Dialogue: 0,0:02:54.22,0:02:58.98,Default-JP-CBB,,0,0,0,,APMを使うと\Nヒット数/秒、レイテンシ、レイテンシの分布\Nなどを監視することができます
-Dialogue: 0,0:02:58.98,0:03:15.08,Default-JP-CBB,,0,0,0,,Cassandra モジュールの\N 90％ のプロセスが、\N約20ミリ秒しょりされている
+Dialogue: 0,0:02:58.98,0:03:15.08,Default-JP-CBB,,0,0,0,,Cassandra モジュールの\N 90％ のプロセスが、\N約20ミリ秒内に処理されています
 Dialogue: 0,0:03:15.12,0:03:19.68,Default-JP-CBB,,0,0,0,,モジュールが実行している\N異なるクエリを見ることもできます
 Dialogue: 0,0:03:19.70,0:03:28.22,Default-JP-CBB,,0,0,0,,詳細情報を得るためには、\Nプログラミング言語のよって、\Nアプリケーションに\N 4行~10行のコードを\N追記する必要があります
 Dialogue: 0,0:03:28.26,0:03:31.72,Default-JP-CBB,,0,0,0,,現状APMは、\NPython、Ruby、Goを\Nサポートしています
@@ -97,7 +97,7 @@ Dialogue: 0,0:04:33.00,0:04:38.28,Default-JP-CBB,,0,0,0,,変化周期の性質�
 Dialogue: 0,0:04:38.30,0:04:42.34,Default-JP-CBB,,0,0,0,,アラートメッセージ欄は、\N障害に対処するための\N各種情報を記述できます
 Dialogue: 0,0:04:42.40,0:04:46.40,Default-JP-CBB,,0,0,0,,アラート発生の背景や\N障害の解決方法
 Dialogue: 0,0:04:46.44,0:04:49.10,Default-JP-CBB,,0,0,0,,”追加サポートを受けるために、\N誰に連絡すべきですか？”\Nなどもリンク付きで記述できます
-Dialogue: 0,0:04:49.14,0:04:52.76,Default-JP-CBB,,0,0,0,,Markdownを使った構造文\Nで簡単に、高度に記述できます
+Dialogue: 0,0:04:49.14,0:04:52.76,Default-JP-CBB,,0,0,0,,Markdownを使った構造文で\N簡単で高度に記述できます
 Dialogue: 0,0:04:52.78,0:04:59.20,Default-JP-CBB,,0,0,0,,テンプレート変数を使って\N本文内にインスタンスIDなどを\N動的に埋め込むことができます
 Dialogue: 0,0:04:59.22,0:05:02.23,Default-JP-CBB,,0,0,0,,情報共有用のダッシュボードで\NScreenBoardです
 Dialogue: 0,0:05:02.23,0:05:07.36,Default-JP-CBB,,0,0,0,,テキスト情報や画像も\N追加できます
