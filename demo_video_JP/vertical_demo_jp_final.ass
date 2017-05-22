@@ -17,24 +17,24 @@ Video File: vertical_demo_two.mp4
 Video AR Mode: 4
 Video AR Value: 0.562500
 Video Zoom Percent: 0.375000
-Scroll Position: 52
-Active Line: 64
-Video Position: 8675
+Scroll Position: 29
+Active Line: 41
+Video Position: 4949
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Default-JP-CBB,Hiragino Kaku Gothic ProN,60,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,3,2,0,2,50,50,150,1
+Style: Default-JP-CBB,Hiragino Kaku Gothic ProN,60,&H00FFFFFF,&H000000FF,&H00550044,&H00FFFFFF,-1,0,0,0,100,100,0,0,3,2,0,2,50,50,150,1
 Style: Default-JP-CBW,Hiragino Kaku Gothic ProN,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,2,0,2,10,10,10,1
-Style: Default-JP-CCB,Hiragino Kaku Gothic ProN,72,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,3,3,0,5,10,10,10,1
+Style: Default-JP-CCB,Hiragino Kaku Gothic ProN,72,&H00FFFFFF,&H000000FF,&H00550044,&H00FFFFFF,-1,0,0,0,100,100,0,0,3,3,0,5,10,10,10,1
 Style: Default-JP-CCW,Hiragino Kaku Gothic ProN,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,2,0,5,10,10,10,1
-Style: Default-JP-CBB2,Hiragino Kaku Gothic ProN,60,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,3,2,0,2,50,50,400,1
-Style: Default-JP-CCB0,Hiragino Kaku Gothic ProN,144,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,3,3,0,5,10,10,10,1
+Style: Default-JP-CBB2,Hiragino Kaku Gothic ProN,60,&H00FFFFFF,&H000000FF,&H00550044,&H00FFFFFF,-1,0,0,0,100,100,0,0,3,2,0,2,50,50,400,1
+Style: Default-JP-CCB0,Hiragino Kaku Gothic ProN,144,&H00FFFFFF,&H000000FF,&H00550044,&H00FFFFFF,-1,0,0,0,100,100,0,0,3,3,0,5,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:01.86,Default-JP-CCB0,,0,0,0,,Datadog は
-Dialogue: 0,0:00:01.86,0:00:08.28,Default-JP-CCB,,0,0,0,,インフラ監視から アプリのパフォーマンスまでもを\N一環して監視してくれる\N SaaS型のソリューションです
+Dialogue: 0,0:00:01.86,0:00:08.28,Default-JP-CCB,,0,0,0,,インフラ監視から アプリのパフォーマンスまでもを\N一貫して監視してくれる\N SaaS型のソリューションです
 Dialogue: 0,0:00:08.28,0:00:11.62,Default-JP-CCB,,0,0,0,,監視対象のホストに\N Agent をインストールすると、
 Dialogue: 0,0:00:11.62,0:00:14.12,Default-JP-CCB,,0,0,0,,直ちに、\Nメトリクスを収集し始めます
 Dialogue: 0,0:00:14.12,0:00:15.42,Default-JP-CCB,,0,0,0,,CPU、メモリ、I / O、ネットワーク など
@@ -74,11 +74,11 @@ Dialogue: 0,0:02:21.94,0:02:27.16,Default-JP-CBB,,0,0,0,,同時に 1 ~ 2 万種�
 Dialogue: 0,0:02:27.18,0:02:31.50,Default-JP-CBB,,0,0,0,,イメージの種類ではなく、\Nインスタンス サイズで\N分類することもできます
 Dialogue: 0,0:02:31.50,0:02:35.34,Default-JP-CBB,,0,0,0,,インスタンス タイプ毎に\Nグループ化してみます
 Dialogue: 0,0:02:35.34,0:02:44.96,Default-JP-CBB,,0,0,0,,気になるホストを見つけたら\N六角形をクリックし\N インストールされている\Nインテグレーションを確認します
-Dialogue: 0,0:02:44.96,0:02:51.20,Default-JP-CBB2,,0,0,0,,システムをクリックすると、\Nすべてのシステム メトリクスが表示されます\N各インテグレーションをクリックして\N詳細を表示し、\ドリルダウンもできます
+Dialogue: 0,0:02:44.96,0:02:51.20,Default-JP-CBB2,,0,0,0,,システムをクリックすると、\Nすべてのシステム メトリクスが表示されます\N各インテグレーションをクリックして\N詳細を表示し、\Nドリルダウンもできます
 Dialogue: 0,0:02:51.24,0:02:54.22,Default-JP-CBB2,,0,0,0,,アプリケーションの\Nパフォーマンス監視もできます\N(APM)
 Dialogue: 0,0:02:54.22,0:02:58.98,Default-JP-CBB,,0,0,0,,APMを使うと\Nヒット数/秒、レイテンシ、レイテンシの分布\Nなどを監視することができます
-Dialogue: 0,0:02:58.98,0:03:15.08,Default-JP-CBB,,0,0,0,,Cassandra モジュールの\N 90％ のプロセスが、\N約20ミリ秒内に処理されています
-Dialogue: 0,0:03:15.12,0:03:19.68,Default-JP-CBB,,0,0,0,,モジュールが実行している\N異なるクエリを見ることもできます
+Dialogue: 0,0:02:58.98,0:03:15.08,Default-JP-CBB,,0,0,0,,Cassandra モジュールの\N 90％ のリクエストが、\N約20ミリ秒内に処理されています
+Dialogue: 0,0:03:15.12,0:03:19.68,Default-JP-CBB,,0,0,0,,モジュールが実行している\N全ての異なるクエリを見ることもできます
 Dialogue: 0,0:03:19.70,0:03:28.22,Default-JP-CBB,,0,0,0,,詳細情報を得るためには、\Nプログラミング言語のよって、\Nアプリケーションに\N 4行~10行のコードを\N追記する必要があります
 Dialogue: 0,0:03:28.26,0:03:31.72,Default-JP-CBB,,0,0,0,,現状APMは、\NPython、Ruby、Goを\Nサポートしています
 Dialogue: 0,0:03:31.76,0:03:34.48,Default-JP-CBB,,0,0,0,,それ以外にも、\N各種フレームワークやライブラリも\Nサポートしています
@@ -88,7 +88,7 @@ Dialogue: 0,0:03:48.78,0:03:53.44,Default-JP-CBB,,0,0,0,,サンプルをクリ�
 Dialogue: 0,0:03:53.48,0:03:56.30,Default-JP-CBB,,0,0,0,,一番上には、Pylonsに対する\Nリクエストの時間が表示されています
 Dialogue: 0,0:03:56.30,0:04:03.04,Default-JP-CBB,,0,0,0,,その下には、リクエストを構成する\N全コンポーネントが表示されています
 Dialogue: 0,0:04:03.12,0:04:06.74,Default-JP-CBB,,0,0,0,,次は、アラートの設定画面です
-Dialogue: 0,0:04:06.78,0:04:12.62,Default-JP-CBB,,0,0,0,,EC2 の CPU 負荷の\N Load 1 メトリクスを\N対象にアラートを\N設定しています
+Dialogue: 0,0:04:06.78,0:04:12.62,Default-JP-CBB,,0,0,0,,AWS EC2 の CPU 負荷の\N Load 1 メトリクスを\N対象にアラートを\N設定しています
 Dialogue: 0,0:04:12.62,0:04:15.36,Default-JP-CBB,,0,0,0,,Anomaly Alert (周期異常値)の\Nアルゴリズで設定しています
 Dialogue: 0,0:04:15.40,0:04:21.68,Default-JP-CBB,,0,0,0,,Anomaly Alert は、\Nメトリクスの周期性を学習し、\Nその周期から外れていないかを\N監視しています
 Dialogue: 0,0:04:21.68,0:04:24.82,Default-JP-CBB,,0,0,0,,周期から外れていた場合のみ、\Nアラートを出します
@@ -99,8 +99,8 @@ Dialogue: 0,0:04:42.40,0:04:46.40,Default-JP-CBB,,0,0,0,,アラート発生の�
 Dialogue: 0,0:04:46.44,0:04:49.10,Default-JP-CBB,,0,0,0,,”追加サポートを受けるために、\N誰に連絡すべきですか？”\Nなどもリンク付きで記述できます
 Dialogue: 0,0:04:49.14,0:04:52.76,Default-JP-CBB,,0,0,0,,Markdownを使った構造文で\N簡単で高度に記述できます
 Dialogue: 0,0:04:52.78,0:04:59.20,Default-JP-CBB,,0,0,0,,テンプレート変数を使って\N本文内にインスタンスIDなどを\N動的に埋め込むことができます
-Dialogue: 0,0:04:59.22,0:05:02.23,Default-JP-CBB,,0,0,0,,情報共有用のダッシュボードで\NScreenBoardです
-Dialogue: 0,0:05:02.23,0:05:07.36,Default-JP-CBB,,0,0,0,,テキスト情報や画像も\N追加できます
+Dialogue: 0,0:05:01.88,0:05:03.50,Default-JP-CBB,,0,0,0,,情報共有用のダッシュボードで\NScreenBoardです
+Dialogue: 0,0:05:03.51,0:05:07.36,Default-JP-CBB,,0,0,0,,テキスト情報や画像も\N追加できます
 Dialogue: 0,0:05:07.36,0:05:12.24,Default-JP-CBB,,0,0,0,,初心者ユーザーでも理解できる\Nダッシュボードを作れます
 Dialogue: 0,0:05:12.24,0:05:18.86,Default-JP-CBB,,0,0,0,,右上隅の歯車アイコンをクリックして\N制限付きでネットに公開できます
 Dialogue: 0,0:05:18.86,0:05:20.74,Default-JP-CBB,,0,0,0,,これらは表示専用です\N外部からの変更はできません
