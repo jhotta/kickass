@@ -17,9 +17,9 @@ Video File: vertical_demo_two.mp4
 Video AR Mode: 4
 Video AR Value: 0.562500
 Video Zoom Percent: 0.375000
-Scroll Position: 29
-Active Line: 41
-Video Position: 4949
+Scroll Position: 50
+Active Line: 55
+Video Position: 7404
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -88,7 +88,7 @@ Dialogue: 0,0:03:48.78,0:03:53.44,Default-JP-CBB,,0,0,0,,サンプルをクリ�
 Dialogue: 0,0:03:53.48,0:03:56.30,Default-JP-CBB,,0,0,0,,一番上には、Pylonsに対する\Nリクエストの時間が表示されています
 Dialogue: 0,0:03:56.30,0:04:03.04,Default-JP-CBB,,0,0,0,,その下には、リクエストを構成する\N全コンポーネントが表示されています
 Dialogue: 0,0:04:03.12,0:04:06.74,Default-JP-CBB,,0,0,0,,次は、アラートの設定画面です
-Dialogue: 0,0:04:06.78,0:04:12.62,Default-JP-CBB,,0,0,0,,AWS EC2 の CPU 負荷の\N Load 1 メトリクスを\N対象にアラートを\N設定しています
+Dialogue: 0,0:04:06.78,0:04:12.62,Default-JP-CBB,,0,0,0,,Amazon EC2 の CPU 負荷の\N Load 1 メトリクスを\N対象にアラートを\N設定しています
 Dialogue: 0,0:04:12.62,0:04:15.36,Default-JP-CBB,,0,0,0,,Anomaly Alert (周期異常値)の\Nアルゴリズで設定しています
 Dialogue: 0,0:04:15.40,0:04:21.68,Default-JP-CBB,,0,0,0,,Anomaly Alert は、\Nメトリクスの周期性を学習し、\Nその周期から外れていないかを\N監視しています
 Dialogue: 0,0:04:21.68,0:04:24.82,Default-JP-CBB,,0,0,0,,周期から外れていた場合のみ、\Nアラートを出します
