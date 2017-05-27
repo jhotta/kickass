@@ -17,28 +17,30 @@ Video File: vertical_demo_two.mp4
 Video AR Mode: 4
 Video AR Value: 0.562500
 Video Zoom Percent: 0.375000
+<<<<<<< HEAD
 Scroll Position: 50
+=======
+Scroll Position: 53
+>>>>>>> d257ec1414f14587fa60fbbd1a5d5ec1fedbc7fd
 Active Line: 55
 Video Position: 7404
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Default-JP-CBB,Hiragino Kaku Gothic ProN,60,&H00FFFFFF,&H000000FF,&H00550044,&H00FFFFFF,-1,0,0,0,100,100,0,0,3,2,0,2,50,50,150,1
-Style: Default-JP-CBW,Hiragino Kaku Gothic ProN,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,2,0,2,10,10,10,1
-Style: Default-JP-CCB,Hiragino Kaku Gothic ProN,72,&H00FFFFFF,&H000000FF,&H00550044,&H00FFFFFF,-1,0,0,0,100,100,0,0,3,3,0,5,10,10,10,1
-Style: Default-JP-CCW,Hiragino Kaku Gothic ProN,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,2,0,5,10,10,10,1
-Style: Default-JP-CBB2,Hiragino Kaku Gothic ProN,60,&H00FFFFFF,&H000000FF,&H00550044,&H00FFFFFF,-1,0,0,0,100,100,0,0,3,2,0,2,50,50,400,1
-Style: Default-JP-CCB0,Hiragino Kaku Gothic ProN,144,&H00FFFFFF,&H000000FF,&H00550044,&H00FFFFFF,-1,0,0,0,100,100,0,0,3,3,0,5,10,10,10,1
+Style: Default-JP-CBB,Hiragino Kaku Gothic ProN,80,&H00FFFFFF,&H000000FF,&H00550044,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,10,0,2,50,50,150,1
+Style: Default-JP-CCB,Hiragino Kaku Gothic ProN,80,&H00FFFFFF,&H000000FF,&H00550044,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,10,0,5,10,10,10,1
+Style: Default-JP-CBB2,Hiragino Kaku Gothic ProN,80,&H00FFFFFF,&H000000FF,&H00550044,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,10,0,2,50,50,400,1
+Style: Default-JP-CCB0,Hiragino Kaku Gothic ProN,144,&H00FFFFFF,&H000000FF,&H00550044,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,10,0,5,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:01.86,Default-JP-CCB0,,0,0,0,,Datadog は
 Dialogue: 0,0:00:01.86,0:00:08.28,Default-JP-CCB,,0,0,0,,インフラ監視から アプリのパフォーマンスまでもを\N一貫して監視してくれる\N SaaS型のソリューションです
-Dialogue: 0,0:00:08.28,0:00:11.62,Default-JP-CCB,,0,0,0,,監視対象のホストに\N Agent をインストールすると、
-Dialogue: 0,0:00:11.62,0:00:14.12,Default-JP-CCB,,0,0,0,,直ちに、\Nメトリクスを収集し始めます
+Dialogue: 0,0:00:08.28,0:00:11.62,Default-JP-CCB,,0,0,0,,監視対象のホストに\NAgent をインストールすると、
+Dialogue: 0,0:00:11.62,0:00:14.12,Default-JP-CCB,,0,0,0,,直ちに、\Nシステム メトリクスの収集を開始します
 Dialogue: 0,0:00:14.12,0:00:15.42,Default-JP-CCB,,0,0,0,,CPU、メモリ、I / O、ネットワーク など
-Dialogue: 0,0:00:15.42,0:00:17.88,Default-JP-CCB,,0,0,0,,全てのメトリクスを集取します
+Dialogue: 0,0:00:15.42,0:00:17.88,Default-JP-CCB,,0,0,0,,全てのシステム メトリクスを集取します
 Dialogue: 0,0:00:17.88,0:00:19.70,Default-JP-CCB,,0,0,0,,インテグレーションを\Nインストールすると
 Dialogue: 0,0:00:19.70,0:00:22.20,Default-JP-CCB,,0,0,0,,更に多くの情報が\N集取できるようになります
 Dialogue: 0,0:00:22.34,0:00:25.88,Default-JP-CBB,,0,0,0,,リストをスクロールすると、 \Nいくつかの監視可能なインフラ部品が\N準備されていることが分かります
