@@ -17,9 +17,9 @@ Video File: vertical_demo_two.mp4
 Video AR Mode: 4
 Video AR Value: 0.562500
 Video Zoom Percent: 0.375000
-Scroll Position: 67
-Active Line: 77
-Video Position: 10335
+Scroll Position: 21
+Active Line: 32
+Video Position: 3251
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -42,27 +42,27 @@ Dialogue: 0,0:00:17.88,0:00:19.70,Default-JP-CCB,,0,0,0,,インテグレーシ�
 Dialogue: 0,0:00:19.70,0:00:22.20,Default-JP-CCB,,0,0,0,,更に多くのメトリクスが\N集取できるようになります
 Dialogue: 0,0:00:22.34,0:00:26.62,Default-JP-CBB,,0,0,0,,インテグレーションページでは \N追加可能なインフラ部品の\N一覧を見ることができます
 Dialogue: 0,0:00:26.63,0:00:30.02,Default-JP-CBB,,0,0,0,,ほぼ全ての AWS サービスを、\N監視をすることができます
-Dialogue: 0,0:00:30.02,0:00:34.13,Default-JP-CBB,,0,0,0,,他クラウドも同時に監視ができ、\NApacheやetcdなどの\N一般的なインフラ部品も監視できます
-Dialogue: 0,0:00:34.13,0:00:38.48,Default-JP-CBB,,0,0,0,,更に、Elasticsearch、NGINX、\NPostgreSQL、Redis など\Nミドルウェアも監視できます
+Dialogue: 0,0:00:30.02,0:00:34.13,Default-JP-CBB,,0,0,0,,他クラウドも\N同時に監視ができ、\NApacheやetcdなどの\N一般的なインフラ部品も\N監視できます
+Dialogue: 0,0:00:34.13,0:00:38.48,Default-JP-CBB,,0,0,0,,更に、\NElasticsearch、NGINX、\NPostgreSQL、Redis など\Nミドルウェアも監視できます
 Dialogue: 0,0:00:38.56,0:00:41.60,Default-JP-CBB,,0,0,0,,有効にするは、\Nこれらのタイルをクリックし\N設定を開始します
 Dialogue: 0,0:00:41.60,0:00:44.66,Default-JP-CBB,,0,0,0,,Configuration タブをクリックすると、\N詳細な設定手順が確認できます
-Dialogue: 0,0:00:44.74,0:00:50.14,Default-JP-CBB,,0,0,0,,設定後、Agent を再起動すると\N Metricsタブの一覧に載っている\Nメトリクスを15秒周期で集取します
-Dialogue: 0,0:00:50.14,0:00:53.56,Default-JP-CBB,,0,0,0,,データの到着の確認ができたら\Nダッシュボードを設定していきます
-Dialogue: 0,0:00:53.56,0:00:56.12,Default-JP-CBB,,0,0,0,,Webサイトのパフォーマンスを\N監視するダッシュボードです
+Dialogue: 0,0:00:44.74,0:00:50.14,Default-JP-CBB,,0,0,0,,設定後、\NAgent を再起動すると\N Metricsタブの一覧に\N載っているメトリクスを\N5秒周期で集取します
+Dialogue: 0,0:00:50.14,0:00:53.56,Default-JP-CBB,,0,0,0,,データの到着が\N確認できたら\Nダッシュボードを\N設定していきます
+Dialogue: 0,0:00:53.56,0:00:56.12,Default-JP-CBB,,0,0,0,,Webサイトの\Nパフォーマンスを監視する\Nダッシュボードです
 Dialogue: 0,0:00:56.20,0:01:04.64,Default-JP-CBB,,0,0,0,,PostgreSQL、Web Latency\NAmazon EBS、 Redis\NCassandra などのメトリクスが\N単一ダッシュボードに\N表示されています
 Dialogue: 0,0:01:04.70,0:01:07.12,Default-JP-CBB,,0,0,0,,4日間分のデータが\N表示されています
 Dialogue: 0,0:01:07.19,0:01:10.32,Default-JP-CBB,,0,0,0,,データの表示時間枠は、\N自由に変更することができます
 Dialogue: 0,0:01:10.34,0:01:12.70,Default-JP-CBB,,0,0,0,,最長で\N15ヵ月分のデータまで、\N表示することできます
 Dialogue: 0,0:01:12.70,0:01:16.50,Default-JP-CBB,,0,0,0,,注目すべき箇所を見つけたら、\Nグラフ右上隅のカメラアイコンを\Nクリックし
-Dialogue: 0,0:01:16.50,0:01:18.52,Default-JP-CBB,,0,0,0,,その周りに小さな箱を描きます
+Dialogue: 0,0:01:16.50,0:01:18.52,Default-JP-CBB,,0,0,0,,その周りに\N小さな箱を描きます
 Dialogue: 0,0:01:18.52,0:01:21.12,Default-JP-CBB,,0,0,0,,”ここで、異常が起こしていない?”\Nというように連絡を取ります
 Dialogue: 0,0:01:21.21,0:01:23.90,Default-JP-CBB,,0,0,0,,”重大なこと? ”、\N”直ちに対処が必要なこと?”と\N尋ねてみます
 Dialogue: 0,0:01:23.94,0:01:26.98,Default-JP-CBB,,0,0,0,,"＠メアド"で書いたメッセージは、\Ne-mailで直接送信できます
-Dialogue: 0,0:01:27.02,0:01:29.25,Default-JP-CBB,,0,0,0,,Slack、HipChat、ChatWorkなどに\N送信することもできます
+Dialogue: 0,0:01:27.02,0:01:29.25,Default-JP-CBB,,0,0,0,,Slack、HipChat、\NChatWorkなどに\N送信することもできます
 Dialogue: 0,0:01:29.25,0:01:31.00,Default-JP-CBB,,0,0,0,,VictorOps、PagerDuty などの通知管理サービス
-Dialogue: 0,0:01:31.00,0:01:33.76,Default-JP-CBB,,0,0,0,,WebHooks を使って、\N次アクションのトリガも可能です
+Dialogue: 0,0:01:31.00,0:01:33.76,Default-JP-CBB,,0,0,0,,WebHooks を使って、\N次アクションの\Nトリガも可能です
 Dialogue: 0,0:01:33.76,0:01:36.76,Default-JP-CBB,,0,0,0,,メッセージの送信先は、\Nほぼ無制限で、
-Dialogue: 0,0:01:36.76,0:01:44.90,Default-JP-CBB,,0,0,0,,会話をどのように進めるかも\N自由に選択できます
+Dialogue: 0,0:01:36.76,0:01:44.90,Default-JP-CBB,,0,0,0,,会話を\Nどのように進めるかも\N自由に選択できます
 Dialogue: 0,0:01:44.91,0:01:48.34,Default-JP-CBB,,0,0,0,,ホストマップ上で、\N現況を分析することもできます
 Dialogue: 0,0:01:48.36,0:01:52.12,Default-JP-CBB,,0,0,0,,デモ環境のホストマップです
 Dialogue: 0,0:01:52.12,0:02:00.24,Default-JP-CBB,,0,0,0,,M3 Large で、Cassandra が\Nインストールされているホストを\N抽出して表示しています
